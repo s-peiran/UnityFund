@@ -32,4 +32,4 @@ Allowed Logout URLs: http://127.0.0.1:8000/index.php?page=logged_out
 Allowed Web Origins: http://127.0.0.1:8000
 ```
 
-The role claim must be one of: `user_admin`, `donee`, `fundraiser`, or `platform_manager`. If the claim is missing, UnityFund uses `DEFAULT_USER_ROLE`.
+The role claim must be one of: `user_admin`, `donee`, `fundraiser`, or `platform_manager`. If the claim is missing, UnityFund uses `DEFAULT_USER_ROLE` .
